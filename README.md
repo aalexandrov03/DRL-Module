@@ -13,6 +13,5 @@ The used microcontroller is ATtiny84 from Microchip. Link to the microcontroller
  
 ## 3. Tools
 - C language
-- CMake https://cmake.org/
 - Git https://git-scm.com/
 - Usbasp avr programmer
